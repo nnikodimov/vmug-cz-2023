@@ -1,1 +1,1 @@
-# vmug-prague-2023
+# vmug-cz-2023
